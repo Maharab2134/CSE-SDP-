@@ -5,5 +5,5 @@
 
 # All SDP Project Bachelor of Computer Science & Engineering (CSE)
    
-# CSE-                   SDP-                          Language-
-# CSE-100                SDP-01                           C
+# CSE Code-:             SDP Number-:                     Language-
+  CSE-100                SDP-01                            C
